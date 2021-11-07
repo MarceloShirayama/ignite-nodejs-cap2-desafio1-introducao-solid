@@ -38,10 +38,7 @@ A rota deve receber, pelo header da requisição, uma propriedade `user_id` cont
 
 Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
 
-<aside>
 💡 Caso você tenha dúvidas quanto ao que são os testes, e como interpretá-los, dê uma olhada em **[nosso FAQ](https://www.notion.so/FAQ-Desafios-ddd8fcdf2339436a816a0d9e45767664)**
-
-</aside>
 
 Para esse desafio, temos os seguintes testes:
 
@@ -158,10 +155,7 @@ Lembre que a propriedade `admin` deve sempre ser iniciada como `false` e o `id` 
 
 Para que esses testes passem, você deve fazer alterações em todos os controllers da aplicação. 
 
-<aside>
 💡 Você pode olhar qual controller recebe o conteúdo de qual rota observando o arquivo **src/routes/users.routes.ts**.
-
-</aside>
 
 - **Rota - [POST] /users**
     - **Should be able to create new users**
