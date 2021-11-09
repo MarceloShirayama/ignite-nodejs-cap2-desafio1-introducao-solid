@@ -1,0 +1,6 @@
+@url_base=http://localhost:3333
+@path=users
+# first create a user and enter below
+@user_id=be15a911-5ec9-48bd-93ad-98a75b8d59a1
+
+PATCH {{url_base}}/{{path}}/{{user_id}}/admin

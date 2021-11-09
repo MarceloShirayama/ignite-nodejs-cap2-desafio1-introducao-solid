@@ -1,0 +1,7 @@
+@url_base=http://localhost:3333
+@path=users
+# first create a user and enter below
+@user_id=6102c27d-cece-43e7-8045-d9adaedb747a
+
+###
+GET {{url_base}}/{{path}}/{{user_id}}

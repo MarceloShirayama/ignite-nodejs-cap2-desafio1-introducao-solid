@@ -1,0 +1,20 @@
+@url_base=http://localhost:3333
+@path=users
+
+###
+POST {{url_base}}/{{path}}
+Content-Type: application/json
+
+{
+    "name": "any_name any_last_name",
+    "email": "any_email@mail.com"
+}
+
+###
+POST {{url_base}}/{{path}}
+Content-Type: application/json
+
+{
+    "name": "any_name2 any_last_name2",
+    "email": "any_email2@mail.com"
+}
