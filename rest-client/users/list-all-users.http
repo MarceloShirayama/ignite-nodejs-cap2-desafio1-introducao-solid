@@ -1,7 +1,7 @@
 @url_base=http://localhost:3333
 @path=users
 # first create a user, make it admin and enter below
-@user_id_admin=be15a911-5ec9-48bd-93ad-98a75b8d59a1
+@user_id_admin=ba92def6-0806-46d2-8a4b-f2ab912ae99c
 # first create a user and enter below
 @user_id_not_admin=088660df-70bc-40f0-ab3b-6bef7cff92f3
 
